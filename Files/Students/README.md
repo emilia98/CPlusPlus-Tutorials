@@ -7,6 +7,7 @@ Ready-to-use файлове:
 - Четенето от файл е на 50%.
 
 <p align="center"><b>write.cpp</b></p>
+
 ```
 #include <fstream>
 #include <iostream>
@@ -34,8 +35,6 @@ int main () {
     // Средна оценка
     cout<<"Average Grade: ";
     cin>>averageGrade;
-
-   string data;
 
    // Output file stream (ПИСАНЕ НА ФАЙЛОВЕ)
    ofstream outfile;
