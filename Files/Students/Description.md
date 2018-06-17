@@ -62,6 +62,7 @@ int main () {
 ```
 
 <p align="center"><b>analyze.cpp</b></p>
+
 ```
 #include <fstream>
 #include <iostream>
@@ -142,7 +143,7 @@ void AnalyzeByGrade(Student students[], int studentsCount)
     outfile.close();
 }
 
-/* Методът, който се извиква, когато сме избрали опция №3 */
+    /* Методът, който се извиква, когато сме избрали опция №3 */
 void GetAllStudents(Student students[], int studentsCount)
 {
     /* Пазим цялата информация, която ще вземем от всеки ученик в тази променлива */
@@ -175,7 +176,7 @@ void GetAllStudents(Student students[], int studentsCount)
     outfile.close();
 }
 
-/* Методът, който ще ни позволи да изберем опция за  анализиране на прочетената информация */
+    /* Методът, който ще ни позволи да изберем опция за  анализиране на прочетената информация */
 void Analyze(Student students[], int studentsCount)
 {
     // Списъкът с опциите, между които можем да избираме 

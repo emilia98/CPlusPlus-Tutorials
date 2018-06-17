@@ -12,5 +12,6 @@
 Файлове:
 - **[write.cpp](https://github.com/emilia98/CPlusPlus-Tutorials/blob/master/Files/Students/write.cpp "write.cpp")** - Writing Files
 - **[analyze.cpp](https://github.com/emilia98/CPlusPlus-Tutorials/blob/master/Files/Students/analyze.cpp "analyze.cpp")** - Reading and Analyzing Files
+- **[Description.md](https://github.com/emilia98/CPlusPlus-Tutorials/blob/master/Files/Students/Description.md "Description.md")** - Описание на функциите на проекта
 - **[read.cpp](https://github.com/emilia98/CPlusPlus-Tutorials/blob/master/Files/Students/read.cpp "read.cpp")** - For **test** reading files
 - **[output.cpp](https://github.com/emilia98/CPlusPlus-Tutorials/blob/master/Files/Students/output.cpp "output.cpp")** - For **test** reading files
