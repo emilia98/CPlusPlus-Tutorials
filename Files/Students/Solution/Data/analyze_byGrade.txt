@@ -1,0 +1,13 @@
+Students with grade >= 5.21
+Pesho Goshov 8 5.65
+Daniel Petrov 4 6.00
+Maria Petkova 9 5.89
+Dragan Draganov 4 5.69
+Stefka Stefanova 4 6.00
+Viktoria Ivanova 4 5.99
+Mihaela Taneva 8 5.79
+Nikolina Petrova 9 5.23
+Yana Nikolova 9 5.64
+Dimityr Alexandrov 7 5.55
+Martin Todorov 9 5.33
+
